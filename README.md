@@ -1,2 +1,2 @@
-# Python-Course
-Python course for beginners
+# Python_intro
+ Python introductory files
